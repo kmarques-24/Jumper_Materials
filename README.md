@@ -1,4 +1,4 @@
-This repository contains the jumping model described in the paper titled: Robot X: A Centimeter-Scale Rolling and Jumping Robot for Search and Rescue. The code develops each phase of the model discussed in Section III. Jumping Model and analyzes experimental data discussed in Section IV. Experiments. The code was originally developed in Google Colab.
+This repository contains the jumping model described in the paper titled: Jumper: A Centimeter-Scale Rolling and Jumping Robot for Search and Rescue. The code develops each phase of the model discussed in Section III. Jumping Model and analyzes experimental data discussed in Section IV. Experiments. The code was originally developed in Google Colab.
 
 The sections are:
 1. Setup
